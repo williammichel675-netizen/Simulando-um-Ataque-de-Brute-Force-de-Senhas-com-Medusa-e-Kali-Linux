@@ -92,6 +92,19 @@ medusa -h [ip do alvo] -U smb_users.txt -P pass.txt -M http \
 "<img width="811" height="618" alt="12comb inacoesdeacesso" src="https://github.com/user-attachments/assets/90c10c7b-4793-4a1e-bed0-08802288a29a" />
 
 
+## Passo 8 - Ataque em cadeia emulação SMB e password Spraying. 
+
+## Crie dois arquivos de texto de usuários e senhas 
+
+echo -e "user\nmsfadmin\nservice" > smb_users.txt
+
+echo -e "123456\npassword\nnqwery\nmsfadmin" > senha_spry.txt
+
+"<img width="811" height="618" alt="12comb inacoesdeacesso" src="https://github.com/user-attachments/assets/ec8b5a76-7574-49f2-aed7-0404220b4594" />
+
+
+
+
 
 
 

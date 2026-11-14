@@ -110,6 +110,13 @@ echo -e "123456\npassword\nnqwery\nmsfadmin" > senha_spry.txt
 
 
 
+## Passo 10 - Testando acesso ultilizando o Smbclient.
+
+## Esse comando serve para listar as pastas e os recursos partilhados (shares) disponíveis num servidor remoto através do protocolo SMB/CIFS.
+smbclient -L //[ip do alvo] -U msfadmin
+
+"<img width="1106" height="900" alt="15smbclient" src="https://github.com/user-attachments/assets/de4f114b-c86e-4144-ac7b-0a3bcbce069c" />
+
 
 
 

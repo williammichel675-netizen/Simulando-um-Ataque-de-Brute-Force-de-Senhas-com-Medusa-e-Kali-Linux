@@ -100,7 +100,7 @@ echo -e "user\nmsfadmin\nservice" > smb_users.txt
 
 echo -e "123456\npassword\nnqwery\nmsfadmin" > senha_spry.txt
 
-"<img width="811" height="618" alt="12comb inacoesdeacesso" src="https://github.com/user-attachments/assets/ec8b5a76-7574-49f2-aed7-0404220b4594" />
+"<img width="1460" height="940" alt="13senhaspray" src="https://github.com/user-attachments/assets/e1a1f957-ae12-48b4-8a2b-2eee5df20667" />
 
 
 

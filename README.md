@@ -118,6 +118,12 @@ smbclient -L //[ip do alvo] -U msfadmin
 "<img width="1106" height="900" alt="15smbclient" src="https://github.com/user-attachments/assets/de4f114b-c86e-4144-ac7b-0a3bcbce069c" />
 
 
+## Minha dica final, adicione as suas ferramentas de comandos a sua barra de favoritos.
+
+"<img width="1462" height="1031" alt="16favoritos" src="https://github.com/user-attachments/assets/e7de9a77-9efc-4891-b672-afab4d27ab60" />
+
+
+
 
 
 

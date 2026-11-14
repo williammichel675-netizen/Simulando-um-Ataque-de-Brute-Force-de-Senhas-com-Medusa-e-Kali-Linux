@@ -61,6 +61,14 @@ Comando: medusa -h [ip do alvo] -U smb_users.txt -P pass.txt -M ftp -t 6
 "<img width="913" height="604" alt="8usuariesenhaftp" src="https://github.com/user-attachments/assets/a97fbd84-3544-4380-8b3a-87e9e1b14b44" />
 
 
+## Passo 4 - Ataque de força bruta em formulários de web com login 
+
+## Abra o navegador Mozila no Kali Linux e coloque o IP do alvo e o resto do link do formulario.
+[ip do alvo]/dvwa/login.php
+
+"<img width="1460" height="742" alt="9formulario" src="https://github.com/user-attachments/assets/c36860d7-bd83-4955-a768-462b51d5e237" />
+
+
 
 
 

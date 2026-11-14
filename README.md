@@ -9,7 +9,8 @@ Passo a passo do que eu aprendi no curso de cibersegurança na DIO.
 Configuração inicial do ambiente de laboratório utilizando o Oracle VirtualBox, contendo as máquinas virtuais do Kali Linux (sistema atacante) e do Metasploitable2 (sistema alvo vulnerável).
 
 <p align="center">
-  <img src="1VirtualboxKaliLinuxeMetasportable2.jpg" alt="Virtualbox com Kali Linux e Metasploitable2" width="700">
+  <img src="1VirtualboxKaliLinuxeMetasportable2.jpg" alt="Virtualbox com Kali
+    LinuxeMetasploitable2" width="700">
 </p>
 
 ---

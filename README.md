@@ -49,7 +49,7 @@ Metasploitable2 comando ip a para sabermos o ip do usuário e ver se as duas maq
 ## Comando para criar lista de usuarios: echo -e ¨user\nmsfadmin\nadmin\nroot¨ > users.txt
 ## Comando para criar lista de senhas: echo -e "123456\npassword\nqwerty\nmsfadmin" > pass.txt
 
-"<img width="949" height="738" alt="6comandonmap" src="https://github.com/user-attachments/assets/6363574c-2e9e-4ee0-8f07-4ae336dda273" />
+"<img width="1406" height="739" alt="7comandocriarusuariosesenhas" src="https://github.com/user-attachments/assets/b52d3b16-865c-4bda-b02d-eb3254161d60" />
 
 
 

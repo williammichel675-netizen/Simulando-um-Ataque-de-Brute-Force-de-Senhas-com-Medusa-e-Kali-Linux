@@ -80,6 +80,11 @@ Comando: medusa -h [ip do alvo] -U smb_users.txt -P pass.txt -M ftp -t 6
 "<img width="1458" height="996" alt="11inspecionarapagina" src="https://github.com/user-attachments/assets/9ab073e2-4b46-46f1-80d0-961eac17b42b" />
 
 
+## Passo 7 - Usando o Medusa para simular combinações de acesso.
+
+
+
+
 
 
 

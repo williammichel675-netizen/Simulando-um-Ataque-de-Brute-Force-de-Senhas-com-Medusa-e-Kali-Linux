@@ -39,6 +39,12 @@ Metasploitable2 comando ip a para sabermos o ip do usuário e ver se as duas maq
 
 "<img width="1463" height="760" alt="5comandoping" src="https://github.com/user-attachments/assets/e238f372-bba5-428f-8d61-d4e4df141194" />
 
+## Comando nmap -Sv -p 21,22,80,445,139 [ip do alvo] para vermos se tem portas abertas.
+
+"<img width="949" height="738" alt="6comandonmap" src="https://github.com/user-attachments/assets/aba01135-f542-4ad7-a179-c344c2a50ca8" />
+
+
+
 
 
 

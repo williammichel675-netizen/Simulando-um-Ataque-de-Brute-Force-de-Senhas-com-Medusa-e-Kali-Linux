@@ -56,7 +56,7 @@ Metasploitable2 comando ip a para sabermos o ip do usuário e ver se as duas maq
 
 ## Opção A: Se o teu objetivo é atacar um servidor FTP (com uma lista de utilizadores e um dicionário de passwords)
 Deves usar a flag maiúscula -P para o ficheiro de passwords:
-Comando: medusa -h 10.0.2.3 -U smb_users.txt -P pass.txt -M ftp -t 6
+Comando: medusa -h [ip do alvo] -U smb_users.txt -P pass.txt -M ftp -t 6
 
 "<img width="913" height="604" alt="8usuariesenhaftp" src="https://github.com/user-attachments/assets/a97fbd84-3544-4380-8b3a-87e9e1b14b44" />
 

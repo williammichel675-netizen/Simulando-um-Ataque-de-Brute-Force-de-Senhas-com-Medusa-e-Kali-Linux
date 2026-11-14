@@ -27,6 +27,6 @@ Ajuste das configurações de rede do Kali Linux no VirtualBox para garantir a c
 
 Configuração idêntica da placa de rede para o Metasploitable2, permitindo que ambas as máquinas virtuais enxerguem uma a outra no mesmo ambiente de testes.
 
-<p align="center">
-  <img src="3configurcaoderedenoMeasploitable2.jpg" alt="Configuração de rede no Metasploitable2" width="700">
-</p>
+
+"<img width="902" height="521" alt="3configurcaoderedenoMeasploitable2" src="https://github.com/user-attachments/assets/66fb4f5e-fc31-4018-858b-85b985e994b9" />
+

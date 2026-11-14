@@ -44,6 +44,16 @@ Metasploitable2 comando ip a para sabermos o ip do usuário e ver se as duas maq
 "<img width="949" height="738" alt="6comandonmap" src="https://github.com/user-attachments/assets/aba01135-f542-4ad7-a179-c344c2a50ca8" />
 
 
+## Passo 3 - Criando arquivos de textos de lista de usuários e senhas comuns no Kali Linux
+
+## Comando para criar lista de usuarios: echo -e ¨user\nmsfadmin\nadmin\nroot¨ > users.txt
+## Comando para criar lista de senhas: echo -e "123456\npassword\nqwerty\nmsfadmin" > pass.txt
+
+"<img width="949" height="738" alt="6comandonmap" src="https://github.com/user-attachments/assets/6363574c-2e9e-4ee0-8f07-4ae336dda273" />
+
+
+
+
 
 
 

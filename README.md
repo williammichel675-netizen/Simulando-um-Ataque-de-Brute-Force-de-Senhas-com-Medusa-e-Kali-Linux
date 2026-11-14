@@ -34,3 +34,33 @@ Configuração idêntica da placa de rede para o Metasploitable2, permitindo que
 Metasploitable2 comando ip a para sabermos o ip do usuário e ver se as duas maquinas estão interagindo entre si.
 
 "<img width="1619" height="762" alt="4interacaoentreolinuxeometasploit" src="https://github.com/user-attachments/assets/f33256d1-dd3a-41ae-a401-32cdec839c6c" />
+
+## Comando ping -c 3 no Linux 
+
+"<img width="1463" height="760" alt="5comandoping" src="https://github.com/user-attachments/assets/e238f372-bba5-428f-8d61-d4e4df141194" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

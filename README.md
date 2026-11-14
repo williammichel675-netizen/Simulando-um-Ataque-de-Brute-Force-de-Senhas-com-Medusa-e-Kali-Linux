@@ -68,6 +68,12 @@ Comando: medusa -h [ip do alvo] -U smb_users.txt -P pass.txt -M ftp -t 6
 
 "<img width="1460" height="742" alt="9formulario" src="https://github.com/user-attachments/assets/c36860d7-bd83-4955-a768-462b51d5e237" />
 
+## Coloque o nome do usuário alvo e a senha descoberta pelo Medusa
+
+"<img width="1455" height="764" alt="10testandoasenha" src="https://github.com/user-attachments/assets/c45de9fa-2bf5-4849-83bb-ff1f6299c543" />
+
+
+
 
 
 

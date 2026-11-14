@@ -73,6 +73,13 @@ Comando: medusa -h [ip do alvo] -U smb_users.txt -P pass.txt -M ftp -t 6
 "<img width="1455" height="764" alt="10testandoasenha" src="https://github.com/user-attachments/assets/c45de9fa-2bf5-4849-83bb-ff1f6299c543" />
 
 
+## Passo 5 -  Inspecionando a pagina do formulário para vermos o nome do login e senha do alvo.
+
+## Clique no botão direto do mouse em cima da pagina do formulário e clique em Inspecionar, vá em Network na barra de POST clique em Request
+
+"<img width="1458" height="996" alt="11inspecionarapagina" src="https://github.com/user-attachments/assets/9ab073e2-4b46-46f1-80d0-961eac17b42b" />
+
+
 
 
 

@@ -8,7 +8,7 @@ Passo a passo do que eu aprendi no curso de cibersegurança na DIO.
 
 Configuração inicial do ambiente de laboratório utilizando o Oracle VirtualBox, contendo as máquinas virtuais do Kali Linux (sistema atacante) e do Metasploitable2 (sistema alvo vulnerável).
 
-git add .
+
 git commit -m "<img width="813" height="573" alt="1VirtualboxKaliLinuxeMetasportable2" src="https://github.com/user-attachments/assets/9c902cf0-e7d2-42b8-940f-dd32ab34ec4b" />
 "
 ---

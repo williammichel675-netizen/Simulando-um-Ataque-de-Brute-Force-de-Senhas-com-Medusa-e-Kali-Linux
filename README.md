@@ -30,3 +30,7 @@ Configuração idêntica da placa de rede para o Metasploitable2, permitindo que
 
 "<img width="902" height="521" alt="3configurcaoderedenoMeasploitable2" src="https://github.com/user-attachments/assets/66fb4f5e-fc31-4018-858b-85b985e994b9" />
 
+## Passo 2 - Ambiente com Kali Linux e Metasploitable2 ataque
+Metasploitable2 comando ip a para sabermos o ip do usuário e ver se as duas maquinas estão interagindo entre si.
+
+"<img width="1619" height="762" alt="4interacaoentreolinuxeometasploit" src="https://github.com/user-attachments/assets/f33256d1-dd3a-41ae-a401-32cdec839c6c" />

